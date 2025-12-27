@@ -3,7 +3,7 @@
 
 - •🧑‍🎓 I’m currently pursuing **a BSc Software Engineering degree at The University of Western Ontario**
 
-- •🌱 I’m currently learning **SE 2203B - Software Design, SE 2250B - Software Construction**
+- •🌱 I’m currently learning **SE 3309A - Database Management Systems, SE 3316A - Web Technologies**
 
 - •🤝 I’m looking for help with **SLMs & LLMs**
 
